@@ -26,6 +26,6 @@ When you open the cube’s lid, a festive **“Eid Mubarak”** message appears 
 
 
 
-1. Clone the repository:
+
 ```bash
 git clone https://github.com/Aaisha-Nexus/Eid_Interactive_Cube.git
